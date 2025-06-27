@@ -22,7 +22,8 @@ li{padding-bottom:5px;}
 
 #header{background-color:#467aa7;margin:0 auto;padding:10px 25px;}
 #header h1{color:#ddd;margin:0;padding:20px 0 10px;}
-#header h1 a{color:#eee;font-family:Helvetica,sans-serif;font-size:2em;font-weight:400;text-decoration:none;}
+#header h1 a{color:#ddd;margin:0;padding:20px 0 10px;font-family:Helvetica,sans-serif;font-size:1.8em;font-weight:400;}
+/*#header h1 a{color:#eee;font-family:Helvetica,sans-serif;font-size:2em;font-weight:400;text-decoration:none;}*/
 #header h2{color:#ddd;margin:0;padding:0 0 10px 0px;margin:0;font-family:Helvetica,sans-serif;font-size:1.8em;font-weight:400;}
 
 #menu{background-color:#467aa7;height:40px;}
