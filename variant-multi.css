@@ -20,8 +20,8 @@ li{padding-bottom:5px;}
 #container760{width:760px;}
 #container600{width:600px;}
 
-#header{background-image:url("images/front.jpg");width:100%;}
-/*#header{background-color:#467aa7;margin:0 auto;padding:10px 25px;}*/
+/*#header{background-image:url("images/front.jpg");}*/
+#header{background-color:#467aa7;margin:0 auto;padding:10px 25px;}
 #header h1{color:#ddd;margin:0;padding:20px 0 10px;}
 /*#header h1 a{color:#ddd;font-family:Helvetica,sans-serif;font-size:2em;font-weight:400;text-decoration:none;}*/
 #header h1 a{color:#ddd;margin:0;font-family:Helvetica,sans-serif;text-decoration:none;}
