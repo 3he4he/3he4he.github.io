@@ -27,7 +27,8 @@ li{padding-bottom:5px;}
 #header h1 a{color:#ddd;margin:0;font-family:Helvetica,sans-serif;text-decoration:none;}
 #header h2{color:#ddd;margin:0;padding:0 0 10px 0px;margin:0;font-family:Helvetica,sans-serif;font-size:1.8em;font-weight:400;}
 
-#menu{background-color:#467aa7;height:40px;}
+#menu{background-image:url("images/front.jpg");width:100%;}
+/*#menu{background-color:#467aa7;height:40px;}*/
 #menu ul{float:right;height:40px;list-style:none;margin:0;padding:0 25px 0 0;}
 #menu ul li{background-color:#2a5a7a;display:block;float:left;margin:0 0 0 5px;padding:0;}
 #menu ul li a{background-color:#2a5a7a;color:#ddd;display:block;font-size:1.4em;padding:10px 12px;text-decoration:none;}
